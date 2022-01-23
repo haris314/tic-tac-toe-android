@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="action_settings">Settings</string>
+    <string name="firstTime">com.dmetjisdufis.tictactoe.firstTime</string>
+    <string name="wonE">com.dmetjisdufis.tictactoe.wonE</string>
+    <string name="lostE">com.dmetjisdufis.tictactoe.lostE</string>
+    <string name="drawE">com.dmetjisdufis.tictactoe.drawE</string>
+    <string name="wonD">com.dmetjisdufis.tictactoe.wonD</string>
+    <string name="lostD">com.dmetjisdufis.tictactoe.lostD</string>
+    <string name="drawD">com.dmetjisdufis.tictactoe.drawD</string>
+
+</resources>

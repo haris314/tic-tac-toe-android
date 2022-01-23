@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#323296</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="lockButtonColor">#4DFFFFFF</color>
+    <color name="semi_transparent">#0DFFFFFF</color>
+    <color name="transparent_red">#4DE41E5D</color>
+
+</resources>
